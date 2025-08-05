@@ -1,2 +1,2 @@
-# sigma-demo
-A sample repo to learn git and github
+# Sigma-Demo
+A Demo for Sigma class of Git & Github
